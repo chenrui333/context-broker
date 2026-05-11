@@ -1,0 +1,26 @@
+jest.config.cjs
+  s_ab3c20460907ae::t_30b86389eb9725 5
+src/migrate-helpers.ts
+  s_ab3c20460907ae::t_125f6a87d0c3a8 1-53
+scripts/migrate.mjs
+  s_ab3c20460907ae::t_20ae2bb6dd37ee 277
+  s_ab3c20460907ae::t_6a70e1f5f57db8 28
+src/__tests__/migrate-helpers.test.ts
+  s_ab3c20460907ae::t_b3d9795c477853 1-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "269ba6f5e385e9b7dec84eecd55caa6994c5c426",
+  "prompts": {},
+  "sessions": {
+    "s_ab3c20460907ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94b61476-a3ef-4278-89c8-0867a4119904",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
