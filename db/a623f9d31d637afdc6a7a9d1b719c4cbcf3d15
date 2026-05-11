@@ -1,0 +1,22 @@
+scripts/migrate.mjs
+  s_ab3c20460907ae::t_4ab48f57097c9f 250,257-258,261,264-267
+  s_ab3c20460907ae::t_899ddad624fdbd 8-9
+  s_ab3c20460907ae::t_b5f662419114eb 107-143,151-152
+  s_ab3c20460907ae::t_805c7c97976c8a 313
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "dba623f9d31d637afdc6a7a9d1b719c4cbcf3d15",
+  "prompts": {},
+  "sessions": {
+    "s_ab3c20460907ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94b61476-a3ef-4278-89c8-0867a4119904",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
