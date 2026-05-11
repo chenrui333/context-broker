@@ -1,0 +1,22 @@
+src/migrate-helpers.ts
+  s_ab3c20460907ae::t_0963119209f7e6 55
+  s_ab3c20460907ae::t_f06b9d6b0aedec 23
+src/__tests__/migrate-helpers.test.ts
+  s_ab3c20460907ae::t_e056f79edf93c3 95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "5d12466a71ac40058ea5074d2c17b0f8020a2e99",
+  "prompts": {},
+  "sessions": {
+    "s_ab3c20460907ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94b61476-a3ef-4278-89c8-0867a4119904",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
